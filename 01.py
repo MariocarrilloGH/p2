@@ -30,4 +30,4 @@ def main():
     print (f"Valor final del contador {common.value}")
     print ("fin")
 if __name__ == "__main__":
-    main()
+    main(
